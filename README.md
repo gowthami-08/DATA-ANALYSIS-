@@ -16,6 +16,16 @@ Steps Performed
 7.  Visualization(Used a boxplot to compare review lengths between positive and negative reviews.)
 
 
+Level 3 Task 2 - Vote Analysis
+
+dataset - dataset.csv
+
+Steps Peformed 
+Step 1: Import Libraries & Load Dataset
+Step 2: Handle Missing or Invalid Values
+Step 3: Highest & Lowest Votes
+Step 4: Scatter Plot (Votes vs Aggregate Rating)
+Step 5: Correlation Analysis
 
 
 
